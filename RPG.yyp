@@ -16,6 +16,7 @@
     {"id":{"name":"spr_gitworld","path":"sprites/spr_gitworld/spr_gitworld.yy",},"order":0,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":4,},
     {"id":{"name":"spr_playser_avatar","path":"sprites/spr_playser_avatar/spr_playser_avatar.yy",},"order":3,},
+    {"id":{"name":"test","path":"sprites/test/test.yy",},"order":12,},
     {"id":{"name":"spr_knight_avatar","path":"sprites/spr_knight_avatar/spr_knight_avatar.yy",},"order":1,},
     {"id":{"name":"spr_player_down_attack","path":"sprites/spr_player_down_attack/spr_player_down_attack.yy",},"order":1,},
     {"id":{"name":"spr_collision_small","path":"sprites/spr_collision_small/spr_collision_small.yy",},"order":6,},
@@ -35,6 +36,7 @@
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
@@ -79,7 +81,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "RPG",
