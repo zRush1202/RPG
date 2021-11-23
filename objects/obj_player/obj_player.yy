@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_player_down",
-    "path": "sprites/spr_player_down/spr_player_down.yy",
+    "name": "spr_playser_avatar",
+    "path": "sprites/spr_playser_avatar/spr_playser_avatar.yy",
   },
   "solid": false,
   "visible": true,
